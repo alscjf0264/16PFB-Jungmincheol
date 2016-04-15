@@ -18,4 +18,4 @@ print """
 Alright, so you said %r about liking me.
 You live in %r. Not sure where that is.
 And you have a %r computer. Nice.
-""" % (likes, lives, computer)
+""" % (likes, lives, computer) # Edit configuration 환경설정에서 이름 설정 후 대답해서 도출하기
